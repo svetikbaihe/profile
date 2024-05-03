@@ -3,7 +3,7 @@ import Profile from './src/components/Profile';
 import './main.scss';
 
 const $newProfile = new Profile ({
-  img: 'src/assets/images/avatar-jessica.JPEG',
+  img: 'src/assets/images/avatar-jessica.webp',
   name: 'Jessica Randall',
   location: 'London, United Kingdom',
   description: '"Front-end developer and avid reader."',
