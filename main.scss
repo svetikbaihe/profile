@@ -68,7 +68,7 @@
   text-align: center;
   font-weight: 600;
   padding-top: 16px;
-  &:hover {
+  &:hover, &:focus {
     background-color: $green;
     color: $dark-grey;
   }
